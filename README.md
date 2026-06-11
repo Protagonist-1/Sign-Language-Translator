@@ -61,6 +61,6 @@ Text Output
 
 ## Author
 
-**Sameer Shaikh**
+**Safeeuddin Shaikh**
 
 GitHub: https://github.com/Protagonist-1
